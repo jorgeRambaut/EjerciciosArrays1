@@ -12,7 +12,7 @@ public class Ejercicio2 {
     
     public static void main(String[] args) {
         double [] inflacion ={0.8, 0.1, 0.3, 0.4, 0.3, 0.6, 0.5, 0.3, 0.7, 0.3, 0.2, 0.9};
-        String [] meses={"Enero","Febreor","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre"};
+        String [] meses={"Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre"};
         double inflacionAnual=0;
         double inflacionMasBaja=inflacion[0];
         double inflacionMasAlta=0;
